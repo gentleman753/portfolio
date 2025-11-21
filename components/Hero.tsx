@@ -45,8 +45,8 @@ export const Hero: React.FC = () => {
         </div>
 
         <div className="flex items-center justify-center lg:justify-start gap-6 pt-6 text-slate-500 dark:text-slate-400">
-          <a href="https://github.com" target="_blank" rel="noreferrer" className="hover:text-slate-900 dark:hover:text-white transition-colors"><Github size={24} /></a>
-          <a href="https://linkedin.com" target="_blank" rel="noreferrer" className="hover:text-slate-900 dark:hover:text-white transition-colors"><Linkedin size={24} /></a>
+          <a href="https://github.com/gentleman753" target="_blank" rel="noreferrer" className="hover:text-slate-900 dark:hover:text-white transition-colors"><Github size={24} /></a>
+          <a href="https://www.linkedin.com/in/yuvraj-bansal22/" target="_blank" rel="noreferrer" className="hover:text-slate-900 dark:hover:text-white transition-colors"><Linkedin size={24} /></a>
           <a href="mailto:yuvrajbansal637@gmail.com" className="hover:text-slate-900 dark:hover:text-white transition-colors"><Mail size={24} /></a>
         </div>
       </motion.div>
