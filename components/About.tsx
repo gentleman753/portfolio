@@ -34,7 +34,7 @@ export const About: React.FC = () => {
       >
         <p className="text-lg leading-relaxed text-slate-600 dark:text-slate-300">
           I am a <span className="font-semibold text-slate-900 dark:text-white">B-Tech student in Ceramic Engineering</span> at 
-          <span className="text-primary-600 dark:text-primary-400 font-medium"> IIT (BHU), Varanasi</span> (CGPA 8.03). 
+          <span className="text-primary-600 dark:text-primary-400 font-medium"> IIT (BHU), Varanasi</span>. 
           I specialize in full-stack development and love solving problems with Data Structures & Algorithms. 
           I enjoy <span className="font-medium text-slate-900 dark:text-white">Competitive Programming</span>, 
           building scalable web apps, and designing clean user experiences.
